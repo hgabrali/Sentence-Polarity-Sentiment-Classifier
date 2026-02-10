@@ -3,6 +3,7 @@
 ## 📌 Project Objective
 The primary objective of this project is to architect a robust **sentiment classifier** engineered to predict the emotional polarity (positive vs. negative) of movie reviews. By leveraging the [**Sentence Polarity Dataset**](https://www.kaggle.com/datasets/nltkdata/sentence-polarity), this repository implements a comprehensive machine learning lifecycle—spanning from raw text ingestion to systematic hyperparameter optimization.
 
+*Note: MAster School Lectures notes.*
 ---
 
 ## 📊 Dataset Specifications: Sentence Polarity Collection
